@@ -1,4 +1,6 @@
 # Классификация отходов по изображениям
+## Colab-тетрадка проекта:
+https://colab.research.google.com/drive/1z5IzOkvlb_BxojdXd7da2B7r-H8tB409?usp=sharing
 
 ## Бизнес-постановка задачи
 
